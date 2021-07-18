@@ -1,5 +1,5 @@
 # e-Library
-A e-Library website development project in which users can read, download, review and request e-books. Admin can upload the books that users requested.
+A login based e-Library website development project in which users can read, download, review and request e-books. Admin can upload the books that users requested.
 
 # Languages used
 - HTML
@@ -47,8 +47,8 @@ A e-Library website development project in which users can read, download, revie
  ![image](https://user-images.githubusercontent.com/66107158/126075525-efe7cdbc-054d-4514-97aa-240cd45dfa35.png)
  ![image](https://user-images.githubusercontent.com/66107158/126075599-01fb5271-5ad9-48ed-88cf-8ea30db8658b.png)
  ![image](https://user-images.githubusercontent.com/66107158/126075611-b9222858-9d58-40de-a3a6-16ad1ef7da5f.png)
- ![image](https://user-images.githubusercontent.com/66107158/126075630-69b0cea6-9a8b-417c-9ad7-f2c94fbe2e76.png)
  ![image](https://user-images.githubusercontent.com/66107158/126075618-a3f82409-8231-4435-8c15-e6c9c6690040.png)
+ ![image](https://user-images.githubusercontent.com/66107158/126075630-69b0cea6-9a8b-417c-9ad7-f2c94fbe2e76.png)
  ![image](https://user-images.githubusercontent.com/66107158/126075642-018cdaa0-84f2-44ab-aae1-c4d432d96dc9.png)
  ![image](https://user-images.githubusercontent.com/66107158/126075665-10104db6-d166-46d7-8cbc-7b8864e8d85b.png)
  
