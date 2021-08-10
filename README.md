@@ -17,7 +17,7 @@ A login based e-Library website development project in which users can read, dow
 - Users and admin can change the password.
 - Admin can view all the details of the users.
 
-# Softwares used to develope the project
+# Software used to develop the project
 
 => Notepad++ 
 - to edit html, css and php codes.
